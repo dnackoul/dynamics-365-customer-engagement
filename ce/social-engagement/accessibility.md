@@ -11,12 +11,12 @@ ms.assetid: 0742a7c8-2fe9-483b-baa6-1907edad0300
 author: m-hartmann
 ms.author: mhart
 manager: sakudes
-topic-status: Drafting
+topic-status: Editing
 ---
 
 # Accessibility for Microsoft Social Engagement
 
-[Microsoft is committed to building software that enables people with different abilities](http://go.microsoft.com/fwlink/p/?LinkId=526256) to be productive.   
+[Microsoft is committed to building software that enables people with different abilities](http://go.microsoft.com/fwlink/p/?LinkId=526256) to be productive.    
 [!INCLUDE[pn_netbreeze_long](../includes/pn-social-engagement-long.md)] enables all users to be productive by providing accessible software that can be used effortlessly, regardless of abilities. 
 
 ## Accessibility capabilities built into Social Engagement
